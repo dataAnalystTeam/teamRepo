@@ -1,0 +1,41 @@
+Git is a version tracking application
+
+Github is a repository site
+
+____________________________________________________
+
+1. Install git
+  https://git-scm.com/downloads
+  mac: brew install git
+  
+2. Prepare a Folder for Tracking
+  using terminal, or command line, go to folder that you want to track
+  then in terminal, or command line, type 'git init' 
+  
+3. Begin Tracking Files
+  'git status' shows which files you are tracking ... currently none
+  'git add filename' adds file(s) to track
+  
+Understanding the Git system
+  There are THREE levels
+    i) Working Directory - set in step 2 ('git init')
+    ii) Staging area - pre-commit area, set in step 3 ('git add')
+    iii) Commits - version tracker, next step ('git commit')
+  All three levels are stored in a folder within the working directory (which is hidden) called ".git"
+  There will be a different ".git" folder in each of the working directories that you choose to track.
+    
+4. Creating a 'version' of your file
+    There are two steps to saving each version (each 'commit')
+    i) 'git add filename' (add to 'staging area')
+    ii) 'git commit -m "Added Comment" (commit)
+    
+    You can do this all in one
+    'git commit -a -m "Added Comment" filename' (commits and adds changes in one go)
+
+5. Once you have many versions, you can restore an older version, using
+  git checkout 'commit #'
+    detached head state
+  git reset --hard 'commit #'
+  
+6. To stop tracking a folder:
+  "rm -rf .git"
