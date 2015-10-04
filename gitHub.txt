@@ -30,11 +30,11 @@ Understanding the Git system
     ii) 'git commit -m "Added Comment" (commit)
     
     You can do this all in one
-    'git commit -a -m "Added Comment" filename' (commits and adds changes in one go)
+    'git commit -a -m "Added Comment"' (commits and adds changes in one go)
 
 5. Once you have many versions, you can restore an older version, using
   git checkout 'commit #'
-    detached head state
+  which leaves you in a 'detached head state', to change the current checkout to the head:
   git reset --hard 'commit #'
   
 6. To stop tracking a folder:
