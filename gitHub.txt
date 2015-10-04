@@ -38,4 +38,11 @@ Understanding the Git system
   git reset --hard 'commit #'
   
 6. To stop tracking a folder:
-  "rm -rf .git"
+  'rm -rf .git'
+
+7. To clone a github repository
+  In terminal, or command line, change to the directory you want the repository to be in
+  'git clone "repository url"'
+  
+____________________________________________________
+
