@@ -46,3 +46,27 @@ Understanding the Git system
   
 ____________________________________________________
 
+Github
+
+1. Get a free github account
+   https://github.com/
+   
+2. Sign into account, go to team repository
+   https://github.com/dataAnalystTeam/teamRepo (note, after you sign in, you will be viewing this repository from your account)
+   
+3. Fork this repository
+   Button on top right, follow instructions
+   
+4. Clone this repository
+   Go to the newly forked version of the team repository (in your account)
+   Copy the link to clone this repository
+   Lower right side of page (HTTPS clone)
+   (step 7 in git instructions)
+   
+5. If you want to be a contributor to this repository, leave your github name in the chat site and I will add you as a contributor.
+
+6. Once you are a contributor, you can test how to edit repositories:
+   i) Make some (useful or negligable) edits to this document on your desktop, then commit those changes on your desktop (step 4. in git)
+   ii) 'git push' will automatically add those changes to this repository
+   iii) Please use this repository for useful links and code.
+        Do not use this repository for answers to quiz questions, problem sets, or projects, or code that is directly used in quiz questions, problem sets, or projects.
