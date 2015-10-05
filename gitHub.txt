@@ -70,3 +70,11 @@ Github
    ii) 'git push' will automatically add those changes to this repository
    iii) Please use this repository for useful links and code.
         Do not use this repository for answers to quiz questions, problem sets, or projects, or code that is directly used in quiz questions, problem sets, or projects.
+        
+____________________________________________________
+
+If you are going to use git, here are some videos on setting up your git workspace:
+
+mac: https://www.udacity.com/course/viewer#!/c-ud775/l-2980038599/m-3333158951
+
+windows: https://www.udacity.com/course/viewer#!/c-ud775/l-2980038599/m-3341718587
