@@ -38,9 +38,15 @@ Understanding the Git system
   git reset --hard 'commit #'
   
 6. To stop tracking a folder:
-  'rm -rf .git'
+  'rm -rf .git' (note: be careful when using this, if you haven't committed all of your files it may delete the uncommitted files)
 
-7. To clone a github repository
+7. To see the difference between the last commit and the current version:
+  'git diff'
+  To see the difference between the last commit and a previous commit:
+  'git log' (to get the commit names)
+  'git diff "commit #" (where 'commit #' is the 'name' of the commit that you want to compare with the latest commit).
+  
+8. To clone a github repository
   In terminal, or git bash, change to the directory you want the repository to be in
   'git clone "repository url"'
   
