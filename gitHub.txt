@@ -9,8 +9,8 @@ ____________________________________________________
   mac: brew install git
   
 2. Prepare a Folder for Tracking
-  using terminal, or command line, go to folder that you want to track
-  then in terminal, or command line, type 'git init' 
+  using terminal, or git bash, go to folder that you want to track
+  then in terminal, or git bash, type 'git init' 
   
 3. Begin Tracking Files
   'git status' shows which files you are tracking ... currently none
@@ -41,7 +41,7 @@ Understanding the Git system
   'rm -rf .git'
 
 7. To clone a github repository
-  In terminal, or command line, change to the directory you want the repository to be in
+  In terminal, or git bash, change to the directory you want the repository to be in
   'git clone "repository url"'
   
 ____________________________________________________
