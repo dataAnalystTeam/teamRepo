@@ -53,6 +53,8 @@ Github
    
 2. Sign into account, go to team repository
    https://github.com/dataAnalystTeam/teamRepo (note, after you sign in, you will be viewing this repository from your account)
+   "NOTE: GitHub uses the email address you set in your local Git configuration to associate commits with your GitHub account."
+   Setting up your email in git: https://help.github.com/articles/setting-your-email-in-git/
    
 3. Fork this repository
    Button on top right, follow instructions
