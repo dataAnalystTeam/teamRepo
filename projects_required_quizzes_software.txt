@@ -1,6 +1,6 @@
 For Projects 1 & 2 there is no requirement in terms of modules that you use to complete the project.
 
-For Project 3, the project has to be complete using pymongo and mongodb
+For Project 3, the project has to be completed using pymongo and mongodb
                Also, there is a requirement that you complete the quizzes and problem set of sequence/section 6 of the videos
 
 For Project 4, the project has to be completed in R
