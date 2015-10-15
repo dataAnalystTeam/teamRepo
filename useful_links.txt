@@ -1,0 +1,6 @@
+Feel free to add to this list (please add a description to links that you add)
+
+
+R vs python:
+"We’ll analyze a dataset side by side in Python and R, and show what code is needed in both languages to achieve the same result."
+https://www.dataquest.io/blog/python-vs-r/
