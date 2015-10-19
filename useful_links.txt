@@ -5,5 +5,8 @@ R vs python:
 "We’ll analyze a dataset side by side in Python and R, and show what code is needed in both languages to achieve the same result."
 https://www.dataquest.io/blog/python-vs-r/
 
+Restructuring Data in R
+http://www.r-statistics.com/2012/01/aggregation-and-restructuring-data-from-r-in-action/
+
 Predict survival on the Titanic using Excel, Python, R & Random Forests
 https://www.kaggle.com/c/titanic
