@@ -1,5 +1,8 @@
 Feel free to add to this list (please add a description to links that you add)
 
+A thoughtful paper on statistics vs data science, and future of...: 
+http://pages.cs.wisc.edu/~anhai/courses/784-fall15/50YearsDataScience.pdf
+I think it's the best analysis of statistics vs data science I've read.  Jennifer 
 
 R vs python:
 "We’ll analyze a dataset side by side in Python and R, and show what code is needed in both languages to achieve the same result."
